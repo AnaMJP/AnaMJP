@@ -6,9 +6,9 @@ Soy estudiante del grado de ingenieria informatica en la universidad de Las Palm
 
 
 ## Lenguajes que manejo 
-![https://github.com/AnaMJP](./img/htmlCss.png)
-![https://github.com/AnaMJP](./img/pythonLogo.png)
+![https://github.com/AnaMJP|80](./img/htmlCss.png)
+![https://github.com/AnaMJP|80](./img/pythonLogo.png)
 
 ## Estoy aprendiendo: 
-![https://github.com/AnaMJP](./img/anfularLogo.png)
-![https://github.com/AnaMJP](./img/javascript_logo.png)
+![https://github.com/AnaMJP|80](./img/angularLogo.png)
+![https://github.com/AnaMJP|80](./img/javascript_logo.png)
