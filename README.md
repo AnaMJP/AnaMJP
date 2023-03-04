@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hola👋
+# Me llamo Ana Maria
 
-<!--
-**AnaMJP/AnaMJP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del grado de ingenieria informatica en la universidad de Las Palmas de Gran Canaria
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Lenguajes que manejo 
+![https://github.com/AnaMJP](./img/htmlCss.png)
+![https://github.com/AnaMJP](./img/pythonLogo.png)
+
+## Estoy aprendiendo: 
+![https://github.com/AnaMJP](./img/anfularLogo.png)
+![https://github.com/AnaMJP](./img/javascript_logo.png)
